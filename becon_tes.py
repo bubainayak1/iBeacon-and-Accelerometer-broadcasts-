@@ -1,5 +1,3 @@
-# In particular, we want to print:
-
 # The device address (so you know which device the data belongs to).
 # The service UUID (to confirm which service is providing the data).
 # The raw accelerometer data (for debugging).
