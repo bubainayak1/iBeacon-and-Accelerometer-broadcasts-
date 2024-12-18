@@ -22,7 +22,7 @@ Running the Code
 Run the BLE scanner:
 
 bash
-python main.py
+python main.py (becon_test.py)
 
 The program will scan for BLE devices, extract accelerometer data, and determine if the beacon is moving or stationary.
 If a BLE device with accelerometer data is detected, the accelerometer readings and movement status will be printed.
